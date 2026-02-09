@@ -44,8 +44,8 @@ Test the model with new sample data for prediction.
 
 ## PROGRAM
 
-### Name: VENKATANATHAN P R
-### Register Number: 212223240173
+### Name: DINESH R
+### Register Number: 212224240037
 
 ```python
 import torch
